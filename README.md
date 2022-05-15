@@ -11,9 +11,9 @@ To begin this analysis, Azure Sentinal must be set up. We will use Sentinal as a
 <h2>Tools and Utilities Used</h2>
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer to Microsoft Azure 
 <br />
-- <b>Microsoft Azure:</b> Set up a live virtual machine to be exposed to the world. Also manages logs from the VM's Microsoft Event Viewer to be plotted on a map.
+- <b>Microsoft Azure:</b> Set up a live virtual machine to be exposed to the world. Also manages logs from the VM's Microsoft Event Viewer to be plotted on a map
 <br />
-- <b>ipgeolocation.io:</b> Geolocation API and Accurate IP Lookup Database to use to plot on the map.
+- <b>ipgeolocation.io:</b> Geolocation API and Accurate IP Lookup Database to use to plot on the map
 <br />
 
 <h2>World map of incoming attacks after roughly 24 hours (built custom logs including geodata)</h2>
