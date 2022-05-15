@@ -12,5 +12,6 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 <h2>Tools and Utilities Used</h2>
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
+<br />
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
