@@ -21,3 +21,5 @@ To begin this analysis, Azure Sentinal must be set up. We will use Sentinal as a
 <p align="center">
 <img src="https://i.imgur.com/VM30Z6x.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
+
+<h2>Synopsis</h2>
