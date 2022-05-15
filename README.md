@@ -5,9 +5,7 @@
 <br />
 
 <br />
-The script is used in this demo where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot.
-We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to
-look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
+To begin this analysis, Azure Sentinal must be set up. We will use Sentinal as a SIEM (Security Information and Event Management) to detect failed RDP Brute Force attacks. These attacks will take place on a live virtual machine connected to our SIEM to be used as a honey pot. These attempts will be observed and analyzed from around the world with the help of a custom PowerShell script to plot the attacker's Geolocation info and plot it on an Azure Sentinal Map.
 <br />
 
 <h2>Tools and Utilities Used</h2>
